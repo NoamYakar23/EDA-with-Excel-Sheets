@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import sklearn.preprocessing as preprop
 import numpy as np
 
-from LinearRegression import LinearRegression
 
 file = 'finalizeRegressionData3.xlsx'
 xls = pd.read_excel(file)
